@@ -46,3 +46,16 @@ When facilitating or participating in AI technical work:
 - Gatekeeping ideas by role or seniority.
 - Treating infrastructure and evaluation tooling as secondary to "core research."
 - Optimizing for the elegance of an idea rather than the quality of the evidence it can generate.
+
+## KPI / Signs the skill is working
+
+This skill is a perspective and attention director, not a rigid contract. Evaluate it by whether attention moved from ideas to validation and across role boundaries.
+
+| KPI | Good sign | Bad sign |
+|-----|-----------|----------|
+| Validation priority | Conversation quickly shifts to "how do we measure / prototype this" | Long theoretical debate with no experiment path |
+| Experiment friction awareness | Reducing the cost of running and interpreting experiments is treated as high-leverage work | Experiment pain is ignored or accepted as normal |
+| Boundary crossing | Researchers discuss infra/inference constraints; infra/product people discuss model behavior | Everyone stays inside their formal role |
+| User reverse path | Starts from a concrete user or product problem | Starts from a cool technique looking for a use |
+
+Meta signals: more high-quality experiments per unit time, less gatekeeping, and clearer evidence standards.
